@@ -2315,7 +2315,7 @@
     display: flex;
     align-items: center;
     width: 100%;
-    margin-left: 100px;
+    margin-left: 0px;
   }
   .main-nav .social {
     margin-left: auto;
@@ -3453,7 +3453,7 @@
   .c-contact-form__form-box {
     max-width: 580px;
     margin: 0 auto;
-    padding-top: 140px;
+    padding-top: 70px;
   }
   .c-contact-form__contact-head {
     margin-bottom: 48px;
