@@ -20,7 +20,7 @@ blueprint:
 preview:
   form_title: Contato
   form_success_page: /
-  form_submission_email: site@example.com
+  form_submission_email: carolinacangucu@gmail.com
   form_button_text: Enviar
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
