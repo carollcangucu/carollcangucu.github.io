@@ -1,12 +1,18 @@
 ---
 date: 2021-01-08 06:20:35 +0300
 title: Audiovisual
-subtitle: Projetos independentes
+subtitle: Projetos, formação e realização de filmes
 image: '/images/project-7.jpg'
 ---
+Em 2008, Carolina Canguçu foi professora na primeira oficina de audiovisual realizada na Terra Indígena Maxakali, na aldeia Pradinho, nordeste de Minas Gerais. Este trabalho coordenado pela Ong Video nas Aldeias era o início de um processo longevo que dura até hoje, na realização de filmes e oficinas de formação audiovisual nas aldeias Maxakali. Em 2010, se iniciaram os trabalhos junto aos Huni Kuin, do Acre, que, além da realização de filmes e livros didáticos para as escolas indígenas, proporcionaram a dissertação de mestrado “O cinema Huni Kuin no ‘tempo da cultura’”. Ao longo desses anos, Carolina percorreu aldeias de diferentes povos indígenas, trabalhando na realização de projetos e filmes.
+
+![Txirin](/images/txirin_equipe2.jpg){: width="1200" height="900"}
+
 > Povos indígenas
 
 <strong>MAXAKALI (MG)</strong>
+
+![Louros](/images/divulgacao_louros.png){: width="1200" height="900"}
 
 * Co-diretora e montadora do vídeo Nũhũ Yãg Mũ Yõg Hãm: Essa Terra É Nossa! (70min, 2020), ganhador dos prêmios:
     * Sheffield DocFest 2021 - Inglaterra (Melhor vídeo da Competição Internacional e Menção Honrosa do Prêmio Tim Hetherington)
@@ -23,12 +29,9 @@ image: '/images/project-7.jpg'
 * Assistente de direção e co-montadora do vídeo Yãmiyhex, as mulheresespírito (80min, 2019). Disponível na plataforma Itaú cultural play
     * Prêmio de Melhor Longa - Mostra Olhos Livres na Mostra de Cinema de Tiradentes 2020
 
-[*Link para o filme*](https://youtu.be/s1pHUTheAYo)
+![Divulgação](/images/divulgacao.jpg){: width="1200" height="900"}
 
-<p align="center">
-  <img src="/images/divulgacao_louros.png" width="45%" hspace="10"/>
-  <img src="/images/divulgacao.jpg" width="45%" hspace="10"/>
-</p>
+[*Link para o filme*](https://youtu.be/s1pHUTheAYo)
 
 * Editora do vídeo Kakxop Pit Hãmkoxuk Xop Te Yumugãhã - Iniciação dos filhos dos espíritos da terra, com Isael Maxakali e Sueli Maxakali (2015)
 
@@ -37,6 +40,8 @@ image: '/images/project-7.jpg'
 ![Iniciação](/images/iniciacao.png){: width="1200" height="900"}
 
 * Professora da 1º oficina de audiovisual na Aldeia Verde e montadora do vídeo Quando os yãmiy vêm dançar conosco (2011-2012)
+
+![Oficina](/images/thumb.jpg){: width="1200" height="900"}
 
 [*Link para o filme*](https://www.youtube.com/watch?v=ngpigZpccd0)
 
@@ -79,11 +84,15 @@ image: '/images/project-7.jpg'
 
 > Quilombos e comunidades do Rosário
 
+![Rainha Nzinga](/images/rainha_nzinga.jpg){: width="1200" height="900"}
+
 * Montadora do filme A Rainha Nzinga Chegou, da Irmandade Treze de Maio de Nossa Senhora do Rosário (BH/MG) (2017). Disponível na plataforma Itaú cultural play
 
 * Professora de audiovisual para jovens do Quilombo dos Arturos, Contagem/MG (Projeto da Escola de Música da UFMG - 2016/2017)
 
 * Professora de audiovisual e montadora do filme Tança, no Quilombo do Mato do Tição, em Jaboticatubas/MG. Projeto financiado pela Fundação Palmares (2015)
+
+![Tança](/images/tanca_divulgacao1.jpg){: width="1200" height="900"}
 
 [*Link para o filme (senha: tanca)*](https://vimeo.com/133514429)
 

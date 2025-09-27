@@ -4,7 +4,16 @@ title: TVE Bahia
 subtitle: Direção e montagem de filmes e séries de interprogramas
 image: '/images/project-9.jpg'
 ---
+De 2018 a 2025 Carolina Canguçu coordenou a Interprogramação da TVE, realizando a produção, direção e montagem de séries e filmes documentários do canal. Ao longo deste tempo, pôde conhecer a fundo o Centro de Documentação da TVE e da Rádio Educadora e as pesquisas nesses arquivos renderam trabalhos de grande repercussão, como o “Toponímia da Cidade do Salvador”, releitura dos programas de rádio do historiador Cid Teixeira e os filmes sobre Mestre Pastinha, Mestre Moa e o sambista Riachão. Como último trabalho na TV, foi lançada a série Ìyás da Bahia, projeto que retratou 11 Ìyalorixás da região metropolitana de Salvador e contou com um grande lançamento no Cine Teatro 2 de julho.
+
+> Filmes
+
 <strong>Ìyás da Bahia (série, 11 episódios, 2025)</strong> - Legados e saberes de 11 mães de santo da região metropolitana de Salvador.
+
+<p align="center">
+  <img src="/images/iyas_1.jpg" width="45%" hspace="10"/>
+  <img src="/images/iyas_2.jpg" width="45%" hspace="10"/>
+</p>
 
 ![Ìyás da Bahia](/images/tve-iyas-da-bahia.png){: width="1200" height="900"}
 [*Link para o filme*](https://youtu.be/kjD5E6d4QgY?si=kh5LZEJpxTe7wVF)
