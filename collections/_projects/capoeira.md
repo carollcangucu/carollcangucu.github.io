@@ -1,5 +1,5 @@
 ---
-date: 2021-01-06 05:20:35 +0300
+date: 2021-01-07 05:20:35 +0300
 title: Capoeira Angola
 subtitle: Contramestra - Escola de Capoeira Angola Dança da Onça
 image: '/images/project-8.jpg'
@@ -10,31 +10,21 @@ Carolina Canguçu é contramestra de Capoeira Angola. Começou a treinar capoeir
 
 Em 2006 iniciou os estudos da Capoeira Angola na escola de Mestre João Angoleiro, em Belo Horizonte.
 
-<p align="center">
-  <img src="/images/treino_capoeira.png" width="45%" hspace="10"/>
-  <img src="/images/roda_rua.png" width="45%" hspace="10"/>
-</p>
+![Treino](/images/treino_capoeira.png){: width="1200" height="900"}
+
+![Roda rua](/images/roda_rua.png){: width="1200" height="900"}
 
 Mudou-se para Salvador em 2018 e foi reconhecida contramestra por mestre Boca Rica.
 
 Durante os treinos de Capoeira Angola, trabalhamos a musicalidade - que envolve o canto, o toque de todos os instrumentos (berimbau, pandeiro, atabaque, agogô e reco-reco) - e a movimentação da Capoeira Angola.
 
-<p align="center">
-  <img src="/images/capoeira_1.png" width="45%" hspace="10"/>
-  <img src="/images/capoeira_2.jpg" width="45%" hspace="10"/>
-</p>
+![Capoeira](/images/capoeira_1.png){: width="1200" height="900"}
+
+![Capoeira](/images/capoeira_2.jpg){: width="1200" height="900"}
 
 Carolina é documentarista há 21 anos, coordenou a Interprogramação da TVE Bahia por 7 anos (2018-2025), e realizou séries e filmes que valorizam a história e a cultura da Bahia, como Mestre Pastinha, Rei da Capoeira (2019), Mestre Moa, presente! (2019), Jaime Sodré e o Carnaval Negro da Bahia (2020) e Riachão, o retrato fiel da Bahia (2021).
 
-<p align="center">
-  <img src="/images/mestre_pastinha.jpg" width="45%" hspace="10"/>
-  <img src="/images/riachao.png" width="45%" hspace="10"/>
-</p>
-
-<p align="center">
-  <img src="/images/mestre_moa.jpg" width="45%" hspace="10"/>
-  <img src="/images/jaime_sodre_card.jpeg" width="45%" hspace="10"/>
-</p>
+![Capoeira](/images/capoeira_3.jpg){: width="1200" height="900"}
 
 <strong>Trabalhos Realizados com CAPOEIRA ANGOLA</strong>
 

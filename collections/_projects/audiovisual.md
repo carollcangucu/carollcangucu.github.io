@@ -1,7 +1,7 @@
 ---
-date: 2021-01-08 06:20:35 +0300
+date: 2021-01-06 06:20:35 +0300
 title: Audiovisual
-subtitle: Projetos, formação e realização de filmes
+subtitle: Projetos, cursos de formação e realização de filmes
 image: '/images/project-7.jpg'
 ---
 Em 2008, Carolina Canguçu foi professora na primeira oficina de audiovisual realizada na Terra Indígena Maxakali, na aldeia Pradinho, nordeste de Minas Gerais. Este trabalho coordenado pela Ong Video nas Aldeias era o início de um processo longevo que dura até hoje, na realização de filmes e oficinas de formação audiovisual nas aldeias Maxakali. Em 2010, se iniciaram os trabalhos junto aos Huni Kuin, do Acre, que, além da realização de filmes e livros didáticos para as escolas indígenas, proporcionaram a dissertação de mestrado “O cinema Huni Kuin no ‘tempo da cultura’”. Ao longo desses anos, Carolina percorreu aldeias de diferentes povos indígenas, trabalhando na realização de projetos e filmes.
