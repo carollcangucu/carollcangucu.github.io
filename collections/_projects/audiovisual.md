@@ -57,6 +57,8 @@ Em 2008, Carolina Canguçu foi professora na primeira oficina de audiovisual rea
 
 ![Livro Vivo](/images/livro_vivo.jpg){: width="1200" height="900"}
 
+[*Link para o filme*](https://www.youtube.com/watch?v=ERbCuWALcMk)
+
 * Professora de audiovisual na aldeia Mibayã (povo Huni Kuĩ, Acre)
     * Filme resultante da oficina: Rau Yusiã – Saberes Medicinais do Povo Huni Kuĩ (2016)
     

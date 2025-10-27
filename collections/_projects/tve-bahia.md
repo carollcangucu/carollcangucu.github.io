@@ -65,6 +65,11 @@ play.
 ![Verso Vivo](/images/verso_vivo.png){: width="1200" height="900"}
 [*Link para a playlist*](https://youtube.com/playlist?list=PLzA2y8OkKTsQqhSMC_8qO_u8oPa99Unld&si=v9HNQ92Tw5o6FB-D)
 
+<strong>Série infantil "Contação de Histórias" (2021)</strong>
+
+![Histórias](/images/historias.png){: width="1200" height="900"}
+[*Link para a playlist*](https://www.youtube.com/playlist?list=PLzA2y8OkKTsTXah9qTcFmxMdwPc-Wg-74)
+
 <strong>Juventude Negra (2018)</strong>.
 
 ![Juventude Negra](/images/juventude_negra.png){: width="1200" height="900"}
